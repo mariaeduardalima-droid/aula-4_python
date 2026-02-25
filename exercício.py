@@ -5,6 +5,8 @@ salario_mensal = R$ 2000,00
 salario_anual = R$ 24000,00
 '''
 
+print('exercício 1')
+
 #ENTRADA
 #Capturando o salario e convertendo para float
 salario_mensal = float(input('informe o seu salário mensal'))
